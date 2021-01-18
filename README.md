@@ -1,1 +1,1 @@
-# Maze-Dueling
+# Maze-Duelin
