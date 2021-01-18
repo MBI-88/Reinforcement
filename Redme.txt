@@ -1,0 +1,1 @@
+Es necesario tener la imagen Mapa.png en la misma ubicacion del archivo .py
