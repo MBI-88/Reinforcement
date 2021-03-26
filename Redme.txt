@@ -1,1 +1,1 @@
-Es necesario tener la imagen Mapa.png en la misma ubicacion del archivo .py
+Para el caso del Maze es necesario tener la imagen en la misma ubicacion que el codigo fuente.
